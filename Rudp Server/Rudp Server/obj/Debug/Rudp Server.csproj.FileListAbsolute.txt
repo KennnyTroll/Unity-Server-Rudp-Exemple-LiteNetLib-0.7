@@ -1,0 +1,8 @@
+C:\Users\Kenny\Desktop\Github_Depots\Unity Server LiteNetLib 0.7\Rudp Server\Rudp Server\bin\Debug\Rudp Server.exe
+C:\Users\Kenny\Desktop\Github_Depots\Unity Server LiteNetLib 0.7\Rudp Server\Rudp Server\bin\Debug\Rudp Server.pdb
+C:\Users\Kenny\Desktop\Github_Depots\Unity Server LiteNetLib 0.7\Rudp Server\Rudp Server\bin\Debug\LiteNetLib.dll
+C:\Users\Kenny\Desktop\Github_Depots\Unity Server LiteNetLib 0.7\Rudp Server\Rudp Server\obj\Debug\Rudp Server.csprojAssemblyReference.cache
+C:\Users\Kenny\Desktop\Github_Depots\Unity Server LiteNetLib 0.7\Rudp Server\Rudp Server\obj\Debug\Rudp Server.csproj.CoreCompileInputs.cache
+C:\Users\Kenny\Desktop\Github_Depots\Unity Server LiteNetLib 0.7\Rudp Server\Rudp Server\obj\Debug\Rudp Server.csproj.CopyComplete
+C:\Users\Kenny\Desktop\Github_Depots\Unity Server LiteNetLib 0.7\Rudp Server\Rudp Server\obj\Debug\Rudp Server.exe
+C:\Users\Kenny\Desktop\Github_Depots\Unity Server LiteNetLib 0.7\Rudp Server\Rudp Server\obj\Debug\Rudp Server.pdb
